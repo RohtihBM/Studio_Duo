@@ -273,8 +273,3 @@ html,body{
 .box:nth-last-child(1){
     border-bottom: 1.5px solid #dadada;
 }
-.footer{
-    height: 90vh;
-    width: 100%;
-    background-color: aquamarine;
-}
